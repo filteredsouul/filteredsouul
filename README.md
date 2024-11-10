@@ -1,4 +1,4 @@
-À propos de moi
+##À propos de moi
 
 🎓 Étudiant en Master 2 Analyse et Politique Économique, parcours Études Économiques et Statistiques à l’Université de Lyon 2, je me spécialise dans l’évaluation des politiques publiques et l’économétrie appliquée.
 
