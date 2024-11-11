@@ -1,4 +1,6 @@
-##À propos de moi
+<!-- Niveau 1 : Petite bio simple et quelques statistiques Github -->
+
+### À propos de moi
 
 🎓 Étudiant en Master 2 Analyse et Politique Économique, parcours Études Économiques et Statistiques à l’Université de Lyon 2, je me spécialise dans l’évaluation des politiques publiques et l’économétrie appliquée.
 
@@ -6,4 +8,7 @@
 
 🤝 Data Analyst bénévole chez Data For Good, je travaille sur des projets d’analyse de données à impact social, mettant mes compétences au service de causes qui comptent.
 
-🔍 Mon objectif ? Devenir Data Analyst dans un secteur qui me passionne : l'environnement et les énergies vertes. Je suis particulièrement intéressé par l’analyse des données liées à la transition énergétique et aux politiques environnementales.
+🔍 Je me forme actuellement à l’analyse de données, au data mining, à la visualisation des données, au machine learning et à l’intelligence artificielle.
+
+<!-- Statistiques Github https://github.com/anuraghazra/github-readme-stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filteredsouul&show_icons=true&theme=algolia)
