@@ -10,5 +10,8 @@
 
 🔍 Je me forme actuellement à l’analyse de données, au data mining, à la visualisation des données, au machine learning et à l’intelligence artificielle.
 
+
+
+### 📊Github's stats
 <!-- Statistiques Github https://github.com/anuraghazra/github-readme-stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filteredsouul&show_icons=true&theme=algolia)
